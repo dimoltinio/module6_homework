@@ -25,3 +25,4 @@ function getArrSum(arr){
     console.log('null ' + nul);
 }
 getArrSum(array1);
+#skin dengi na qiwi
